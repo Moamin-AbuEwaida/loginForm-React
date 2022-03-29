@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loginform-react/static/css/main.6f17ab17.css",
+    "main.js": "/loginform-react/static/js/main.35c84630.js",
+    "index.html": "/loginform-react/index.html",
+    "main.6f17ab17.css.map": "/loginform-react/static/css/main.6f17ab17.css.map",
+    "main.35c84630.js.map": "/loginform-react/static/js/main.35c84630.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f17ab17.css",
+    "static/js/main.35c84630.js"
+  ]
+}
